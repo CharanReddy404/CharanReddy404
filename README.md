@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px">, I'm Shubham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px">, I'm Charan B</h1>
 <h3 align="center">I'm a passionate React Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working with **"MERN stack".**
+- 🌱 I’m currently working with **"React Js Developer".**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **shubham.shubham.singh13@gmail.com**
+- 📫 How to reach me **charanlucky6143@gmail.com**
 
-- 📄 You can Also checkOut **[My Portfolio](https://shubham-singh.com)**
+- 📄 You can Also checkOut **[My Portfolio](https://linktr.ee/charanb)**
 
-- ⚡ Fun fact **I can code for a cup of coffee 🤷🏼 .**
+- ⚡ Fun fact **I can code for a cup of tea 🤷🏼 .**
 
 ## 🚀 Languages and Tools:
 

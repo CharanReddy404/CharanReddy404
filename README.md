@@ -1,21 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Charan B</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanreddy404&label=Profile%20views&color=0e75b6&style=flat" alt="charanreddy404" /> </p>
 
-- 🔭 I’m currently working with **React Js**
+- 🔭 I’m currently working with **ReactJs, NodeJs, TypeScrip, JavaScript, Mocroservices**
 
-- 🌱 I’m currently learning **ReactJs, Redux**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤝 I’m looking for **ReactJs Developer jobs**
+- 🤝 I’m looking for **Challenges**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/charanb](https://linktr.ee/charanb)
 
-- 💬 Ask me about **ReactJs Redux,Javascript, Java, HTML, CSS**
+- 💬 Ask me about **ReactJs, Redux, NodeJs, TypeScript, Javascript, Java, HTML, CSS**
 
 - 📫 How to reach me **Charanlucky6143@gmail.com**
 

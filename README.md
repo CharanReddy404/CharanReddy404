@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
-
 <h1 align="center">Hi 👋, I'm Charan B</h1>
 <h3 align="left">A passionate Software developer from India</h3>
 

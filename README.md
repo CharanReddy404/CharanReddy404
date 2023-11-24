@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **ReactJs, NodeJs, TypeScrip, JavaScript, DevOps, Mocroservices**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **NextJs, Devops**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

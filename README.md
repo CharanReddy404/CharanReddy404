@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **Challenges**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/charanb](https://linktr.ee/charanb)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/CharanReddy404](https://linktr.ee/CharanReddy404)
 
 - 💬 Ask me about **ReactJs, Redux, NodeJs, TypeScript, Javascript, Java, HTML, CSS**
 

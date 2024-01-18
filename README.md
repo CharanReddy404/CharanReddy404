@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **ReactJs, NodeJs, TypeScrip, JavaScript, DevOps, Mocroservices**
 
-- 🌱 I’m currently learning **NextJs, Devops**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/CharanReddy404](https://linktr.ee/CharanReddy404)
 
-- 💬 Ask me about **ReactJs, Redux, NodeJs, TypeScript, Javascript, Java, HTML, CSS**
+- 💬 Ask me about ** NextJs, ReactJs, Redux, NodeJs, TypeScript, Javascript, Java, HTML, CSS**
 
 - 📫 How to reach me **Charanlucky6143@gmail.com**
 

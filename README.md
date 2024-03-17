@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanreddy404&label=Profile%20views&color=0e75b6&style=flat" alt="charanreddy404" /> </p>
 
-- 🔭 I’m currently working with **ReactJs, NodeJs, TypeScrip, JavaScript, DevOps, Mocroservices**
-
-- 🌱 I’m currently learning **NextJs**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 🤝 I’m looking for **Challenges**
+- 🔭 I’m currently working with **ReactJs, NodeJs, TypeScrip, JavaScript, Flutter, Dart DevOps, Mocroservices**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/CharanReddy404](https://linktr.ee/CharanReddy404)
 

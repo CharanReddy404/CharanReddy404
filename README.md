@@ -35,7 +35,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/git.png" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charanreddy404&show_icons=true&locale=en&layout=compact" alt="charanreddy404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charanreddy404&show_icons=true&locale=en&layout=compact&langs_count=30" alt="charanreddy404" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charanreddy404&show_icons=true&locale=en" alt="charanreddy404" /></p>
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **ReactJs, NodeJs, TypeScrip, JavaScript, Flutter, Dart, DevOps, Mocroservices**
 
-- 🔭 I’m currently Learning **Rust, Blockchain**
+- 🔭 I’m currently Learning **Blockchain, Web3.0, Solana, Rust,**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/CharanReddy404](https://linktr.ee/CharanReddy404)
 
